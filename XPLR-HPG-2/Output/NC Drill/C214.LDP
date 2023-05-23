@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\C214\C214.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=c214-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=c214-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

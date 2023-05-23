@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: C214.PcbDoc   14/2/2023  2:14:51 µµ
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom Layer
+ASCII RoundHoles File : C214-RoundHoles.TXT
+ASCII SlotHoles File : C214-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             10        PTH        44.91mm (1.77inch)
+T2      0.3mm (12mil)                                             Round             112       PTH        221.92mm (8.74inch)
+T3      0.305mm (12mil)                                           Round             1012      PTH        2468.81mm (97.20inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        38.17mm (1.50inch)
+T5      1.016mm (40mil)                                           Round             36        PTH        236.54mm (9.31inch)
+T6      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T7      0.95mm (37mil)                                            Round             2         NPTH       6.80mm (0.27inch)
+T8      3.048mm (120mil)                                          Round             4         NPTH       222.67mm (8.77inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1182
+
+Total Processing Time (hh:mm:ss) : 00:00:01
