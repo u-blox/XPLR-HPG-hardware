@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: ALPS-HPG.GBR   14/2/2023  2:52:13 µµ
+Gerber File Extension Report For: ALPS-HPG.GBR   7/4/2023  1:34:01 µµ
 ------------------------------------------------------------------------------------------
 
 
@@ -16,5 +16,6 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM                 Profile                                 
+.GM4                Rigid Outline                           
+.GD1                Drill Drawing                           
 ------------------------------------------------------------------------------------------

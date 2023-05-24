@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\tcha\AppData\Local\TempReleases\Snapshot\3\PCB\ALPS-HPG.PcbDoc
+RuleKind=Clearance|RuleName=RF|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=NPTH|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ALPS-HPG.PcbDoc   14/2/2023  2:52:30 µµ
+NCDrill File Report For: ALPS-HPG.PcbDoc   7/4/2023  1:33:57 µµ
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1 to L4
@@ -8,8 +8,8 @@ ASCII SlotHoles File : ALPS-HPG-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.203mm (8mil)          +/-0.003mm (0mil)                 Round             1128      PTH        3873.71mm (152.51inch)
-T2      0.3mm (12mil)                                             Round             147       PTH        773.68mm (30.46inch)
+T1      0.203mm (8mil)          +/-0.003mm (0mil)                 Round             1125      PTH        3767.46mm (148.33inch)
+T2      0.3mm (12mil)                                             Round             148       PTH        774.16mm (30.48inch)
 T3      0.6mm (24mil)                                             Slot              4         PTH        49.16mm (1.94inch)
 T4      0.7mm (28mil)                                             Slot              8         PTH        94.95mm (3.74inch)
 T5      0.8mm (31mil)                                             Round             3         PTH        4.00mm (0.16inch)
@@ -25,6 +25,6 @@ T14     2.388mm (94mil)                                           Round         
 T15     3.4mm (134mil)                                            Round             4         NPTH       375.81mm (14.80inch)
 T16     3.45mm (136mil)                                           Round             2         NPTH       57.52mm (2.26inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1368
+Totals                                                                              1366
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:02
